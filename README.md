@@ -2,8 +2,8 @@
 Intro to IT Group Website
 
 ### Members
-Diep The Thinh, ID: 3825459
-(add your name and ID here)
+- Diep The Thinh, ID: 3825459
+- (add your name and ID here)
 
 ### Google Doc
 This is the main document that we will be using to write our assignment
@@ -15,7 +15,7 @@ We will use this list to keep track of what we need to do and have done througho
 This folder contains the group website files
 
 ### Personal Websites
-Thinh: https://thinh-t-diep.github.io
+- Thinh: https://thinh-t-diep.github.io
 
 ### Resources
 Learn HTML: https://www.w3schools.com/html/
