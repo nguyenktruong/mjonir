@@ -9,3 +9,6 @@ We will use this list to keep track of what we need to do and have done througho
 
 # /docs Folder
 This folder contains the group website files
+
+# Personal Websites
+Thinh: thinh-t-diep.github.io
