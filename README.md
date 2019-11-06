@@ -18,5 +18,5 @@ This folder contains the group website files
 - Thinh: https://thinh-t-diep.github.io
 
 ### Resources
-Learn HTML: https://www.w3schools.com/html/
-Learn how to write/format README.md: https://help.github.com/en/github/writing-on-github/basic-writing-and-formatting-syntax
+- Learn HTML: https://www.w3schools.com/html/
+- Learn how to write/format README.md: https://help.github.com/en/github/writing-on-github/basic-writing-and-formatting-syntax
