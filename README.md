@@ -3,6 +3,7 @@ Intro to IT Group Website
 
 ### Members
 - Diep The Thinh, ID: 3825459
+- Truong Khoi Nguyen, ID: 3818221
 - (add your name and ID here)
 
 ### Google Doc
@@ -16,6 +17,7 @@ This folder contains the group website files
 
 ### Personal Websites
 - Thinh: https://thinh-t-diep.github.io
+- Nguyen: https://nguyenktruong.github.io/mywebsite/
 
 ### Resources
 - Learn HTML: https://www.w3schools.com/html/
