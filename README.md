@@ -7,6 +7,7 @@ Intro to IT Group Website
 
 ### Word Doc
 This is the main document that we will be using to write our assignment. The Word Doc is shared with everyone in the group. You can log into Word with your school email and it should shown up as a file shared with you.
+
 **Alternatively:** https://rmiteduau-my.sharepoint.com/:w:/g/personal/s3825459_rmit_edu_vn/ER_2OyL5JoVGt-oiCiPlmT4Bgki8pXuNgRtpCG3AejtJPw
 
 ### To-do List
