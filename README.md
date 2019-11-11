@@ -1,4 +1,4 @@
-# mjonir
+# Mjolnir
 Intro to IT Group Website
 
 ### Members
