@@ -5,6 +5,7 @@ Intro to IT Group Website
 - Diep The Thinh, ID: 3825459
 - Hoang Nguyen Diem Nga, ID: 3635021
 - Nguyen Anh Tuan, ID: 3818169
+- Nguyen Quoc Thang, ID: 3806617
 
 ### Word Doc
 This is the main document that we will be using to write our assignment. The Word Doc is shared with everyone in the group. You can log into Word with your school email and it should shown up as a file shared with you.
@@ -26,6 +27,7 @@ This folder contains the group website files
 - Thinh: https://thinh-t-diep.github.io
 - Nga: https://nghoang111.github.io/Nga-Hoang/ 
 - Tuan: https://anhtuan251101.github.io/Tuan-Nguyen/
+- Thang: https://thangl9.github.io/Thang1910.github.io-/
 
 ### Resources
 - Learn HTML: https://www.w3schools.com/html/
