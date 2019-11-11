@@ -1,12 +1,14 @@
-# mjonir
+# Mjolnir
 Intro to IT Group Website
 
 ### Members
 - Diep The Thinh, ID: 3825459
-- (add your name and ID here)
+- Hoang Nguyen Diem Nga, ID: 3635021
 
-### Google Doc
-This is the main document that we will be using to write our assignment
+### Word Doc
+This is the main document that we will be using to write our assignment. The Word Doc is shared with everyone in the group. You can log into Word with your school email and it should shown up as a file shared with you.
+
+**Alternatively:** https://rmiteduau-my.sharepoint.com/:w:/g/personal/s3825459_rmit_edu_vn/ER_2OyL5JoVGt-oiCiPlmT4Bgki8pXuNgRtpCG3AejtJPw
 
 ### To-do List
 We will use this list to keep track of what we need to do and have done throughout the assignment. Everyone can add items to the list and keep track of each other. You should use this to communicate with the group about your responsibilities and progress of work
@@ -14,8 +16,12 @@ We will use this list to keep track of what we need to do and have done througho
 ### /docs Folder
 This folder contains the group website files
 
+### GitHub
+- Thinh: https://github.com/Thinh-T-Diep
+
 ### Personal Websites
 - Thinh: https://thinh-t-diep.github.io
+- Nga: https://nghoang111.github.io/Nga-Hoang/ 
 
 ### Resources
 - Learn HTML: https://www.w3schools.com/html/
