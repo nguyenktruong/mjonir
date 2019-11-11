@@ -3,7 +3,7 @@ Intro to IT Group Website
 
 ### Members
 - Diep The Thinh, ID: 3825459
-- (add your name and ID here)
+- Hoang Nguyen Diem Nga, ID: 3635021
 
 ### Google Doc
 This is the main document that we will be using to write our assignment
@@ -16,6 +16,7 @@ This folder contains the group website files
 
 ### Personal Websites
 - Thinh: https://thinh-t-diep.github.io
+- Nga: https://nghoang111.github.io/Nga-Hoang/ 
 
 ### Resources
 - Learn HTML: https://www.w3schools.com/html/
